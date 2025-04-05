@@ -1,0 +1,12 @@
+train: E:\ktdktd_project\Yolov8_baseball\train\images
+val: E:\ktdktd_project\Yolov8_baseball\valid\images
+
+nc: 1
+names: ['Table-tennis']
+
+roboflow:
+  workspace: 0028_-huynh-long
+  project: table-tennis-detection-i3vbu
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/0028_-huynh-long/table-tennis-detection-i3vbu/dataset/1
